@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" />
+  <project name="LineageOS/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="github" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" />
+  <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="LineageOS/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="LineageOS/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" />
+  <project name="LineageOS/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" />
+  <project name="LineageOS/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" />
+  <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" />
+  <project name="LineageOS/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+  <project name="kyasu/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" />
+  <project name="kyasu/android_device_samsung_ks01ltexx" path="device/samsung/ks01ltexx" remote="github" />
+  <project name="kyasu/android_vendor_samsung_ks01ltexx" path="vendor/samsung/ks01ltexx" remote="github" />
+  <!-- degas 1st try
+  <project name="Ryzen5-3600/android_kernel_samsung_degaswifi" path="kernel/samsung/degaswifi" remote="github" />
+  <project name="Ryzen5-3600/android_device_samsung_degaswifi" path="device/samsung/degaswifi" remote="github" />
+  -->
+  <!-- degas 2nd try
+  <project name="Ryzen5-3600/android_device_samsung_degaswifi" path="device/samsung/degaswifi" remote="github" />
+  <project name="android-Marvell/android_device_marvell_common" path="device/samsung/marvell-common" remote="github" revision="cm-11.0"/>
+  <project name="android-Marvell/android_kernel_marvell_pxa1088" path="kernel/samsung/degaswifi" remote="github" revision="cm-11.0"/>
+  <project name="android-Marvell/android_vendor_marvell_pxa1088" path="vendor/samsung/degaswifi" remote="github" revision="stock-KK"/>
+  <project name="android-Marvell/android_hardware_marvell_pxa1088" path="hardware/marvell" remote="github" revision="kk4.4"/>
+  -->
+</manifest>
