@@ -30,15 +30,4 @@
   <project name="LineageOS/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="github" />
   <project name="LineageOS/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" />
   -->
-  <!-- degas 1st try
-  <project name="Ryzen5-3600/android_kernel_samsung_degaswifi" path="kernel/samsung/degaswifi" remote="github" />
-  <project name="Ryzen5-3600/android_device_samsung_degaswifi" path="device/samsung/degaswifi" remote="github" />
-  -->
-  <!-- degas 2nd try
-  <project name="Ryzen5-3600/android_device_samsung_degaswifi" path="device/samsung/degaswifi" remote="github" />
-  <project name="android-Marvell/android_device_marvell_common" path="device/samsung/marvell-common" remote="github" revision="cm-11.0"/>
-  <project name="android-Marvell/android_kernel_marvell_pxa1088" path="kernel/samsung/degaswifi" remote="github" revision="cm-11.0"/>
-  <project name="android-Marvell/android_vendor_marvell_pxa1088" path="vendor/samsung/degaswifi" remote="github" revision="stock-KK"/>
-  <project name="android-Marvell/android_hardware_marvell_pxa1088" path="hardware/marvell" remote="github" revision="kk4.4"/>
-  -->
 </manifest>
