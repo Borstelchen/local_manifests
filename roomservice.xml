@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Samsung general -->
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <!-- Samsung Galaxy S6 (SM-G92{0/5}F variants) - zero(f)ltexx -->
+  <project name="Borstelchen/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" />
+  <project name="Borstelchen/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" />
+  <project name="Borstelchen/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_zeroltexx" path="vendor/samsung/zeroltexx" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_zerofltexx" path="vendor/samsung/zerofltexx" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_zero-common" path="vendor/samsung/zero-common" remote="github" />
+  <project name="Borstelchen/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="github" />
+  <!-- Samsung Galaxy S7 (SM-G93{0/5}F variants) - hero(2)lte -->
+  <project name="Borstelchen/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" />
+  <project name="Borstelchen/android_device_samsung_hero2lte" path="device/samsung/hero2lte" remote="github" />
+  <project name="Borstelchen/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" />
+  <project name="Borstelchen/android_vendor_seal" path="vendor/seal/seal" remote="github" revision="lineage"/>
+  <project name="Borstelchen/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" path="hardware/samsung_slsi-cm/exynos8890" remote="github" />
+  <!-- Samsung Galaxy S4 LTE-A (GT-I9506) - ks01ltexx -->
+  <project name="kyasu/android_device_samsung_ks01ltexx" path="device/samsung/ks01ltexx" remote="github" />
+  <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" />
+  <project name="kyasu/android_vendor_samsung_ks01ltexx" path="vendor/samsung/ks01ltexx" remote="github" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+  <project name="kyasu/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" />
+</manifest>
