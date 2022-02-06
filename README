@@ -1,0 +1,22 @@
+
+Git LFS
+~~~~~~~
+
+One of my repositories is using Git Large File Storage (LFS).
+More Information here:
+https://git-lfs.github.com/
+
+You need to install "git-lfs" by your distribution package manager or like described above.
+
+To 'repo sync' please follow these steps:
+
+1. /android/lineage-16.0> git lfs install
+
+2. /android/lineage-16.0> repo sync
+
+3. /android/lineage-16.0> repo forall -c "git lfs pull"
+
+Have a lot of fun!
+Yours, Borstelchen
+
+
