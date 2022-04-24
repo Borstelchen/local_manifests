@@ -10,7 +10,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <!-- Samsung Galaxy S6 (SM-G92{0/5}F variants) - zero(f)lte?? -->
+  <!-- Samsung Galaxy S6 (SM-G92{0/5}?? variants) - zero(f)lte?? -->
   <project name="Borstelchen/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" />
   <project name="Borstelchen/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" />
   <project name="Borstelchen/android_device_samsung_zeroltecan" path="device/samsung/zeroltecan" remote="github" />
