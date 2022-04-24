@@ -13,9 +13,13 @@
   <!-- Samsung Galaxy S6 (SM-G92{0/5}F variants) - zero(f)lte?? -->
   <project name="Borstelchen/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" />
   <project name="Borstelchen/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" />
+  <project name="Borstelchen/android_device_samsung_zeroltecan" path="device/samsung/zeroltecan" remote="github" />
+  <project name="Borstelchen/android_device_samsung_zerofltecan" path="device/samsung/zerofltecan" remote="github" />
   <project name="Borstelchen/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" />
   <project name="Borstelchen/android_vendor_samsung_zeroltexx" path="vendor/samsung/zeroltexx" remote="github" />
   <project name="Borstelchen/android_vendor_samsung_zerofltexx" path="vendor/samsung/zerofltexx" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_zeroltecan" path="vendor/samsung/zeroltecan" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_zerofltecan" path="vendor/samsung/zerofltecan" remote="github" />
   <project name="Borstelchen/android_vendor_samsung_zero-common" path="vendor/samsung/zero-common" remote="github" />
   <project name="Borstelchen/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" />
   <project name="Borstelchen/android_hardware_samsung" path="hardware/samsung" remote="github" />
