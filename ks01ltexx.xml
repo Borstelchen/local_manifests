@@ -5,6 +5,9 @@
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" />
   <!-- Lineage general -->
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" />
+  <!-- Override LineageOS's Updater package -->
+  <remove-project name="LineageOS/android_packages_apps_Updater" />
+  <project name="Borstelchen/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" />
   <!-- Samsung Galaxy S4 LTE-A (GT-I9506) - ks01ltexx -->
   <project name="kyasu/android_device_samsung_ks01ltexx" path="device/samsung/ks01ltexx" remote="github" />
   <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" />

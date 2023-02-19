@@ -11,11 +11,16 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <!-- Samsung Galaxy S6 Edge (SM-G925F) - zeroltexx -->
+  <!-- Override LineageOS's Updater package -->
+  <remove-project name="LineageOS/android_packages_apps_Updater" />
+  <project name="Borstelchen/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" />
+  <!-- Samsung Galaxy S6 (SM-G92{0/5}F variants) - zero(f)ltexx -->
   <project name="Borstelchen/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" />
-  <project name="Borstelchen/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" />
+  <project name="Borstelchen/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" />
+  <project name="Borstelchen/android_device_samsung_universal7420-common" path="device/samsung/universal7420-common" remote="github" />
   <project name="Borstelchen/android_vendor_samsung_zeroltexx" path="vendor/samsung/zeroltexx" remote="github" />
-  <project name="Borstelchen/android_vendor_samsung_zero-common" path="vendor/samsung/zero-common" remote="github" />
-  <project name="Borstelchen/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_zerofltexx" path="vendor/samsung/zerofltexx" remote="github" />
+  <project name="Borstelchen/android_vendor_samsung_universal7420-common" path="vendor/samsung/universal7420-common" remote="github" />
+  <project name="Borstelchen/android_kernel_samsung_universal7420" path="kernel/samsung/universal7420" remote="github" />
   <project name="Borstelchen/android_hardware_samsung_slsi_exynos7420" path="hardware/samsung_slsi/exynos7420" remote="github" />
 </manifest>
