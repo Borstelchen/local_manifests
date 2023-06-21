@@ -13,9 +13,6 @@
   <project name="samsungexynos7420/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" />
   <project name="samsungexynos7420/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" />
   <project name="samsungexynos7420/android_device_samsung_universal7420-common" path="device/samsung/universal7420-common" remote="github" />
- <!--  <project name="Borstelchen/android_vendor_samsung_zeroltexx" path="vendor/samsung/zeroltexx" remote="github" />
-  <project name="Borstelchen/android_vendor_samsung_zerofltexx" path="vendor/samsung/zerofltexx" remote="github" />
-  <project name="Borstelchen/android_vendor_samsung_universal7420-common" path="vendor/samsung/universal7420-common" remote="github" /> -->
   <project name="samsungexynos7420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
   <project name="samsungexynos7420/android_kernel_samsung_universal7420" path="kernel/samsung/universal7420" remote="github" revision="lineage-18.1-EQ1" />
   <!-- Hardware -->
